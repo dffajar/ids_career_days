@@ -84,11 +84,12 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentasi</a>
+                    <a href="https://laravel.com/docs">Documentasi Laravel</a>
                     <a href="https://laracasts.com">Laraca</a>
                     <a href="https://laravel-news.com">New Baru</a>
                     <a href="https://forge.laravel.com">Forge Lama</a>
                     <a href="https://github.com/laravel/laravel">GitHub Canggih</a>
+                    <a href="https://github.com/laravel/laravel">Gmail</a>
                 </div>
             </div>
         </div>
