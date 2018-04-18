@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>IDS Career Days</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -13,7 +13,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: #ff0;
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
@@ -61,6 +61,10 @@
 
             .m-b-md {
                 margin-bottom: 30px;
+                width: auto;
+                height: auto;
+                background-color: gray;
+                border-radius: 10px;
             }
         </style>
     </head>
@@ -78,16 +82,18 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
+                <div class="title m-b-md middle">
+                <marque>
                     Wibu Lo
+                </marque>
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a class="m-b-md" href="https://laravel.com/docs">Pengangguran</a>
+                    <a class="m-b-md" href="https://laracasts.com">Home Security</a>
+                    <a class="m-b-md" href="https://laravel-news.com">Berita Terlama</a>
+                    <a class="m-b-md" href="https://forge.laravel.com">Gak Masuk Akal</a>
+                    <a class="m-b-md" href="https://github.com/laravel/laravel">Kerja Kelompok</a>
                 </div>
             </div>
         </div>
