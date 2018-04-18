@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Zeeber
+                    Wibu Lo
                 </div>
 
                 <div class="links">
