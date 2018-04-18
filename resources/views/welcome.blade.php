@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Zeeber
+                    Career Days
                 </div>
 
                 <div class="links">
