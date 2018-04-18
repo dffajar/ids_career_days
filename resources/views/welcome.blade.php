@@ -13,9 +13,8 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #ff0;
                 color: #636b6f;
-                font-family: 'Raleway', sans-serif;
+                font-family: "Agency FB";
                 font-weight: 100;
                 height: 100vh;
                 margin: 0;
@@ -63,7 +62,7 @@
                 margin-bottom: 30px;
                 width: auto;
                 height: auto;
-                background-color: gray;
+                background-color: aqua;
                 border-radius: 10px;
             }
         </style>
