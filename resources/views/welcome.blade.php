@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Wibu Lo
+                    Wibu
                     <a target="_blank" href="https://1cak.com">Need some jokes? Click me!</a>
                 </div>
 
